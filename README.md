@@ -1,6 +1,6 @@
 ### Hi 👋, I'm David White
 
-Software Developent and Management student at UTP (Universidad Tecnológica de Panamá).
+Software Development and Management student at UTP (Universidad Tecnológica de Panamá).
 
 I'm building my portfolio by helping small and medium-sized businesses in Panama City 
 establish a professional digital presence — from auto repair shops and beauty salons 
